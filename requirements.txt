@@ -1,0 +1,7 @@
+Flask
+werkzeug
+moviepy
+pydub
+SpeechRecognition
+indic-transliteration
+difflib
